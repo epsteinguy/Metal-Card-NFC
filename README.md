@@ -17,6 +17,7 @@ You can buy the sticker place it on the card and use it as a nfc card! (Please b
 
 
 # BOM
-Name,Price in Rupees, Price is Dollars ,Link
-The Metal Card," INR 1,722.49 ", $19.00 ,https://cdn.hackclub.com/019c5682-2554-7b09-9ec2-c3ad8d57eba1/image.png
-Ntag216 Nfc Sticker, INR 540.00 , $6 ,https://www.amazon.in/LINQS%C2%AE-Memory-NTAG216-Stickers-Business/dp/B0BC9CQWH4?th=1
+| Name | Price in Rupees | Price is Dollars | Link |
+| ---- | --------------- | ---------------- | ---- |
+| The Metal Card | INR 1,722.49 | $19.00 | https://cdn.hackclub.com/019c5682-2554-7b09-9ec2-c3ad8d57eba1/image.png |
+| Ntag216 Nfc Sticker | INR 540.00 | $6 | https://www.amazon.in/LINQS%C2%AE-Memory-NTAG216-Stickers-Business/dp/B0BC9CQWH4?th=1 |
